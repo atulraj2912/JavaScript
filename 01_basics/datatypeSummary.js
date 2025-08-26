@@ -15,3 +15,10 @@ let myObj={      //object
 const myFnc=function(){     //function
     console.log("hello world")
 }
+
+
+
+
+//*****************************STACK AND HEAP MEMORY***********************************/
+// Stack is used in storing primitive data i.e., a copy of data is stored
+//Heap is used in storing non primitive data i.e., original data is manipulated while soing any changes
