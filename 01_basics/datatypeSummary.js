@@ -6,7 +6,7 @@
 
 //Reference (Non Primitive) (call by reference)
 //Array, Objects, Functions
-const heros=["saktiman","naagraj","doga"];//array
+const heros=["shaktiman","naagraj","doga"];//array
 let myObj={      //object
     name:"atul",
     age:22,
