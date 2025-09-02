@@ -57,3 +57,27 @@ console.log(Object.entries(tinderUser)); //return array containing key value pai
 // to find whether there is an existing property or not of an object
 console.log(tinderUser.hasOwnProperty('name'));  //true
 console.log(tinderUser.hasOwnProperty('isLoggedIn'));  //false
+const course = {
+    coursename: "js in hindi",
+    price: "999",
+    courseInstructor: "hitesh"
+}
+
+// course.courseInstructor
+
+const {courseInstructor: instructor} = course
+
+// console.log(courseInstructor);
+console.log(instructor);
+
+// {
+//     "name": "hitesh",
+//     "coursename": "js in hindi",
+//     "price": "free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
