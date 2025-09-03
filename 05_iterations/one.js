@@ -8,7 +8,6 @@ for (let i = 0; i <= 10; i++) {
     //console.log(element);
     
 }
-
 // console.log(element);
 
 for (let i = 1; i <= 10; i++) {
